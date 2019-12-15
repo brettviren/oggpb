@@ -1,3 +1,3 @@
-#+title oggpb - Ogg + Protocol Buffers
+#+title: oggpb - Ogg + Protocol Buffers
 
 This is just some experimental test code.  Nothing real to see.
